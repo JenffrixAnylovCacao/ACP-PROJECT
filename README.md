@@ -36,6 +36,6 @@
 
 2. Guess the Number(gn.py)
   - Lets you pick a number between 0 to 36. Play the game to achieve true randomness and add the luck factor.
-  - 
+  
 3. Coin Flip(cf.py)
   - Coin flipping, coin tossing, or heads or tails is the practice of throwing a coin in the air and checking which side is showing when it lands, in order to choose between two alternatives, heads or tails, sometimes used to resolve a dispute between two parties.
