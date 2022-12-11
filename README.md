@@ -4,7 +4,7 @@
 
 ## Game.py is the main game/driver code that compile the three games and Gameinfo.py is where multiple inheritance happen.
 ### UML DIAGRAM
-![alt text](http://url/to/img.png)
+![UML DIAGRAM](http://318675665_872686293918596_1341224078245870740_n.jpg)
 ---------------------------------------------------------------------
 Instructions
 1. Game.py – Main code of the program/driver code
