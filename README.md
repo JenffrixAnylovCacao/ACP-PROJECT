@@ -2,9 +2,9 @@
 
 ## Contents
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/28RZNNhiEYY/0.jpg)](http://www.youtube.com/watch?v=28RZNNhiEYY)
-### Game.py is the main game/driver code that compile the three games and Gameinfo.py is where multiple inheritance happen.
+ Oop Principles: Game.py is the main game/driver code that compile the three games and Gameinfo.py is where multiple inheritance happen.
 
-####Instructions
+###Instructions
   Game.py – Main code of the program/driver code
   GameInfo.py-code that has the main information/background of the game
   cf.py- coin flip game/one of the three games of the casino
