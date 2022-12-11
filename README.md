@@ -2,7 +2,7 @@
 
 ## Contents
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/28RZNNhiEYY/0.jpg)](http://www.youtube.com/watch?v=28RZNNhiEYY)
-###Oop Principles: Game.py is the main game/driver code that compile the three games and Gameinfo.py is where multiple inheritance happen.
+###Game.py is the main game/driver code that compile the three games and Gameinfo.py is where multiple inheritance happen.
 
 Instructions
 1. Game.py – Main code of the program/driver code
