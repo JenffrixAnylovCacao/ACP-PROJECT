@@ -8,6 +8,16 @@
 
 ---------------------------------------------------------------------
 
+## Project Assessment
+
+1. Code Reusability – 3 (Implemented the DRY method in an acceptable manner.)
+2. Maintainability- 3 (The program’s structure is based on OOP principles. Codes are readable, understandable, aiding to its maintainability)
+3. Scalability – 4 (The program has high potentials for adapting new features, immediate changes, and can handle minor and major updates with less difficulty than usual)
+4. Execution – 3 (The program works completely as intended and declared. Errors are handled properly)
+5. Originality- 3(Concept is quite similar to some samples)
+6. Overall Impression- 4 (The program runs smoothly without noticeable bugs on errors)
+---------------------------------------------------------------------
+
 ## Instructions
 1. Game.py – Main code of the program/driver code
 2. GameInfo.py-code that has the main information/background of the game
@@ -17,6 +27,7 @@
 6. First, the user will choose on two options. Option 1 is when the user choose to run “Game.py” or the main game then the user will be directed to the three games of the casino when the user don’t want to play anymore it will take the user back on the main menu to choose what game the user will play next. Then, if the user choose Option 2/”GameInfo.py” the user will be directed to the all information/background of the three games,
 
 ---------------------------------------------------------------------
+
 ## Games Background Information
 1. Rock, Paper, Scissor(rps.py)
   - Rock, Paper, Scissors. The familiar game of Rock, Paper, Scissors is played like this: at the same time, two players(one user, one computer) display one of three symbols: a rock, paper, or scissors. A rock beats scissors, scissors beat paper by cutting it, and paper beats rock by covering it.
